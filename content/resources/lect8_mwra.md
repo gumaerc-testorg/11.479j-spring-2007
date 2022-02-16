@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture presentation on centralized water treatment.  Includes discussion
   of the MWRA (Boston) water system by guest lecturer Joshua Das, Massachusetts Water
   Resources Authority.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/c75fed5bd11f723510c25b218011a5a7_lect8_mwra.pdf
+file: /media/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/c75fed5bd11f723510c25b218011a5a7_lect8_mwra.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Supply and Demand Management of Greater Boston\u2019s Water System (1600s\
   \ \u2013 the Present)"

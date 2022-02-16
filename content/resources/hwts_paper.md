@@ -4,8 +4,13 @@ description: Background Paper on Household Water Treatment and Safe Storage (HWT
   2006. This paper explores the current status of the adoption and sustained use of
   household drinking water treatment and safe storage systems, the critical factors
   that influence adoption and sustained use and the associated challenges to scale-up.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/2ea34b5923210c3b8c25ca217affbde1_hwts_paper.pdf
+file: /media/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/2ea34b5923210c3b8c25ca217affbde1_hwts_paper.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Implementation, Critical Factors and Challenges to Scale-Up of Household Drinking
   Water Treatment and Safe Storage Systems

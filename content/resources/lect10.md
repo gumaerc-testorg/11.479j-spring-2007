@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on sanitation history, centralized wastewater treatment,
   and water reuse.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/0defe50e1244d873609b6376fe3bf40c_lect10.pdf
+file: /media/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/0defe50e1244d873609b6376fe3bf40c_lect10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: A Brief Global and Western History of Water Supply and Sanitation
 uid: 0defe50e-1244-d873-609b-6376fe3bf40c
