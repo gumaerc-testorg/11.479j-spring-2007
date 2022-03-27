@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c4587ca4-f0d3-b7df-e143-068923251e36
 resourcetype: Document
 title: 'Policy Memo #1'
 uid: b6385c91-bd4b-fec2-a87e-9466cc8e2e6c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3a10d7fa-bb93-5379-f2a0-3bcc93d3df44
 resourcetype: Document
 title: A Brief Global and Western History of Water Supply and Sanitation
 uid: 0defe50e-1244-d873-609b-6376fe3bf40c

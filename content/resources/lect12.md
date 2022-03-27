@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3a10d7fa-bb93-5379-f2a0-3bcc93d3df44
 resourcetype: Document
 title: On-site Sanitation
 uid: 846dec43-a9fc-a9f2-1f8a-a44b0064692a

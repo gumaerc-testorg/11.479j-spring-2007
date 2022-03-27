@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3a10d7fa-bb93-5379-f2a0-3bcc93d3df44
 resourcetype: Document
 title: Introduction to Water and Sanitation Infrastructure in the Developing World
 uid: 6dcb4214-6027-8e87-37f0-559c801f452f

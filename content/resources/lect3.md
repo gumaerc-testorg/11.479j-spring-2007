@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3a10d7fa-bb93-5379-f2a0-3bcc93d3df44
 resourcetype: Document
 title: Understanding the Potential for Pro-Poor Utility Reform in the Water Sector
 uid: da7d1195-d335-2c2b-ea55-d9110a22d613

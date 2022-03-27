@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c4587ca4-f0d3-b7df-e143-068923251e36
 resourcetype: Document
 title: Writing Effective Policy Memos
 uid: 73b13d12-4fa8-0f13-d9f3-899a8b52cb90

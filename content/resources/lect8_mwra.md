@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3a10d7fa-bb93-5379-f2a0-3bcc93d3df44
 resourcetype: Document
 title: "Supply and Demand Management of Greater Boston\u2019s Water System (1600s\
   \ \u2013 the Present)"

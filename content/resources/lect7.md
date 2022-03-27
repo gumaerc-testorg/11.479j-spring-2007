@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3a10d7fa-bb93-5379-f2a0-3bcc93d3df44
 resourcetype: Document
 title: Household Water Treatment and Safe Storage TechnologiesSusan
 uid: 88976abf-d7d4-12db-a766-d4f76c0d11e0

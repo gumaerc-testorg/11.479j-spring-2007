@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c4587ca4-f0d3-b7df-e143-068923251e36
 resourcetype: Document
 title: Mid-term Essay Assignment
 uid: 3b5f5048-2bd3-8534-ac03-5998895b0e41
