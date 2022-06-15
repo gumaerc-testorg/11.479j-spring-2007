@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on class participation, tech tutorials,
+  quizzes, policy memos assignments, the midterm essay, and the final paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,7 +19,7 @@ Participation
 Tech Tutorials
 --------------
 
-Using source material from USAID Technical Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdf.usaid.gov/pdf_docs/pbaab555.pdf)), [WELL Technical Briefs](https://www.lboro.ac.uk/orgs/well/resources/technical-briefs/technical-briefs.htm), the Field Guide to Appropriate Technology, or other sources of comparable content and quality, students, in teams of 2, shall give a 10-minute tutorial to the class on a selected practice area or technology. Each student shall give one tutorial during the semester. (Note: No powerpoint or other electronic media are allowed in the tech tutorials. Use the chalkboard or other simple, manual, visual aids that might be available in a developing country village or neighborhood.)
+Using source material from USAID Technical Notes ([PDF](http://pdf.usaid.gov/pdf_docs/pbaab555.pdf)), [WELL Technical Briefs](https://www.lboro.ac.uk/orgs/well/resources/technical-briefs/technical-briefs.htm), the Field Guide to Appropriate Technology, or other sources of comparable content and quality, students, in teams of 2, shall give a 10-minute tutorial to the class on a selected practice area or technology. Each student shall give one tutorial during the semester. (Note: No powerpoint or other electronic media are allowed in the tech tutorials. Use the chalkboard or other simple, manual, visual aids that might be available in a developing country village or neighborhood.)
 
 Quizzes
 -------
@@ -29,18 +31,18 @@ Policy Memos
 
 Students will be required to write two brief policy memos (750 words maximum) in response to a presented scenario, drawing on course readings and discussions. In these memos students will make policy or programmatic suggestions regarding what technology, policy, implementation strategy, etc. they see as appropriate for the given scenario. Policy Memo 1 is due in class, hard-copy, in Ses #5. Policy Memo 2 is due in class, hard-copy, in Ses #10.
 
-Memo 1 ([PDF]({{< baseurl >}}/resources/memo1))
+Memo 1 ({{% resource_link b6385c91-bd4b-fec2-a87e-9466cc8e2e6c "PDF" %}})
 
-Memo 2 ([PDF]({{< baseurl >}}/resources/memo2))
+Memo 2 ({{% resource_link 597bc029-1640-a2c5-dbc7-0ca35efd8781 "PDF" %}})
 
-Writing Effective Policy Memos ([PDF]({{< baseurl >}}/resources/writing))
+Writing Effective Policy Memos ({{% resource_link 73b13d12-4fa8-0f13-d9f3-899a8b52cb90 "PDF" %}})
 
 Mid-Term Essay
 --------------
 
 Building on the weekly critical commentaries you post to the online discussion board, students will write a reflective essay (8-10 pages) on a policy issue, implementation issue, or case study of your choosing. Example topics will be provided.
 
-Essay Assignment ([PDF]({{< baseurl >}}/resources/midterm))
+Essay Assignment ({{% resource_link 3b5f5048-2bd3-8534-ac03-5998895b0e41 "PDF" %}})
 
 Final Paper
 -----------
