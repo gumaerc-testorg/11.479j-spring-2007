@@ -5,6 +5,7 @@ file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Steps in Water and Sanitation Planning
 uid: 0a43990d-4f6e-3694-97a3-54a3732dcb0e
 ---
 Lecture presentation on water and sanitation planning.
-

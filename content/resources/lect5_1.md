@@ -6,6 +6,7 @@ file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Water Sources (Improved and Unimproved) and Water Supply Planning
 uid: 348edf66-c7b6-89ce-af8d-5729f0f8b891
 ---
 Lecture presentation on sources of water, both improved and unimproved, and water supply planning.
-

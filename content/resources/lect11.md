@@ -6,6 +6,7 @@ file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Financing Water Supply and Sanitation
 uid: 9c2c36f3-5509-e59b-4a09-99d2a831ec18
 ---
 Lecture presentation on financing water and sanitation infrastructure in developing countries.
-

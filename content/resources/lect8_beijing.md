@@ -7,6 +7,7 @@ file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Comparison of Beijing Municipality and MWRA (Boston) Water Systems
 uid: bf96b3b9-668b-9d18-5bf4-42bd1edcb7ec
 ---
 Lecture presentation on centralized water treatment.  Includes a comparison of Beijing Municipality and MWRA (Boston) water systems by guest lecturer Joshua Das, Massachusetts Water Resources Authority.
-

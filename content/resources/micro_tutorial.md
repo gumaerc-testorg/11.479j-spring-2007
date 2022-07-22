@@ -6,6 +6,7 @@ file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countri
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Tutorial 1: Principles of Microeconomics'
 uid: 8f08bcb6-3076-6def-3b8f-6c064bd40bc6
 ---
 This reading assignment provides a tutorial on economics, microeconomics, and macroeconomics.
-

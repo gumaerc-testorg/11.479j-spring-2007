@@ -6,6 +6,7 @@ file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Household Water Treatment and Safe Storage TechnologiesSusan
 uid: 88976abf-d7d4-12db-a766-d4f76c0d11e0
 ---
 Lecture presentation on decentralized household water treatment and safe storage technologies.
-

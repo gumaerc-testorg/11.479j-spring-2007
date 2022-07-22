@@ -7,6 +7,7 @@ file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: The Role of Water Quantity, Quality, Hygiene and Sanitation in Water-Rela
 uid: 31fcdb5f-4661-b67a-aaf4-f91bd5e80f74
 ---
 Lecture presentation on the role of water quantity, quality, hygiene and sanitation in water-related disease prevention in developing countries, and some major water-related diseases.
-

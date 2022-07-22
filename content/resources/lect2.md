@@ -7,6 +7,7 @@ file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Introduction to Water and Sanitation Infrastructure in the Developing Wor
 uid: 6dcb4214-6027-8e87-37f0-559c801f452f
 ---
 Lecture presentation with an introduction to water and sanitation infrastructure in the developing world. Topics include basic concepts, water rich versus water poor, and a pictorial tour of global water and sanitation infrastructure.
-
