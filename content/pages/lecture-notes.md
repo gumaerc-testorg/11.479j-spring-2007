@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course lecture notes and information on lecture
+  topics and guest lecturers.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 3a10d7fa-bb93-5379-f2a0-3bcc93d3df44
 ---
@@ -33,7 +38,7 @@ Introduction to water and sanitation development
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Basic concepts, water rich / water poor, and pictoral tour of global water and sanitation ([PDF - 2.8 MB]({{< baseurl >}}/resources/lect2))
+Basic concepts, water rich / water poor, and pictoral tour of global water and sanitation ({{% resource_link 6dcb4214-6027-8e87-37f0-559c801f452f "PDF - 2.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +49,7 @@ Basic concepts, water rich / water poor, and pictoral tour of global water and s
 {{< tdopen >}}
 
 
-A utility's pro-poor approach in Bangalore's slums ([PDF]({{< baseurl >}}/resources/lect3))
+A utility's pro-poor approach in Bangalore's slums ({{% resource_link da7d1195-d335-2c2b-ea55-d9110a22d613 "PDF" %}})
 
 Guest lecture: Genevieve Connors, Urban Development Sector Unit, East Asia and Pacific Region, World Bank
 
@@ -57,7 +62,7 @@ Guest lecture: Genevieve Connors, Urban Development Sector Unit, East Asia and P
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Water, sanitation and hygiene-related diseases ([PDF - 1.7 MB]({{< baseurl >}}/resources/lect4))
+Water, sanitation and hygiene-related diseases ({{% resource_link 31fcdb5f-4661-b67a-aaf4-f91bd5e80f74 "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Water, sanitation and hygiene-related diseases ([PDF - 1.7 MB]({{< baseurl >}}/r
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Sources of water and water supply planning ([PDF 1 of 2 - 6.6 MB]({{< baseurl >}}/resources/lect5_1)) ([PDF 2 of 2 - 3.9 MB]({{< baseurl >}}/resources/lect5_2))
+Sources of water and water supply planning ({{% resource_link 348edf66-c7b6-89ce-af8d-5729f0f8b891 "PDF 1 of 2 - 6.6 MB" %}}) ({{% resource_link 0a43990d-4f6e-3694-97a3-54a3732dcb0e "PDF 2 of 2 - 3.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +80,7 @@ Sources of water and water supply planning ([PDF 1 of 2 - 6.6 MB]({{< baseurl >}
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Water quality and simple water quality field testing demo ([PDF - 1.2 MB]({{< baseurl >}}/resources/lect6))
+Water quality and simple water quality field testing demo ({{% resource_link c348657c-c27a-93bd-7eb0-f553ecc8f3a5 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +89,7 @@ Water quality and simple water quality field testing demo ([PDF - 1.2 MB]({{< ba
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Decentralized household water treatment and safe storage ([PDF - 5.4 MB]({{< baseurl >}}/resources/lect7))
+Decentralized household water treatment and safe storage ({{% resource_link 88976abf-d7d4-12db-a766-d4f76c0d11e0 "PDF - 5.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +100,7 @@ Decentralized household water treatment and safe storage ([PDF - 5.4 MB]({{< bas
 {{< tdopen >}}
 
 
-Centralized water treatment: MWRA and Beijing ([PDF 1 - 1.5 MB]({{< baseurl >}}/resources/lect8_mwra)) ([PDF 2 - 3.0 MB]({{< baseurl >}}/resources/lect8_beijing))
+Centralized water treatment: MWRA and Beijing ({{% resource_link c75fed5b-d11f-7235-10c2-5b218011a5a7 "PDF 1 - 1.5 MB" %}}) ({{% resource_link bf96b3b9-668b-9d18-5bf4-42bd1edcb7ec "PDF 2 - 3.0 MB" %}})
 
 Guest lecture: Joshua Das, Massachusetts Water Resources Authority
 
@@ -125,7 +130,7 @@ Guest lecture: Earthea Nance, Virginia Tech
 {{< tdopen >}}
 
 
-Sanitation history, centralized wastewater treatment, and reuse ([PDF - 4.4 MB]({{< baseurl >}}/resources/lect10))
+Sanitation history, centralized wastewater treatment, and reuse ({{% resource_link 0defe50e-1244-d873-609b-6376fe3bf40c "PDF - 4.4 MB" %}})
 
 Parts of this lecture are adapted from the following:
 
@@ -142,7 +147,7 @@ Outwater, Alice. _Water: A Natural History_. New York, NY: Basic Books, 1997. IS
 {{< tdopen >}}
 
 
-Water and sanitation financing ([PDF - 2.2 MB]({{< baseurl >}}/resources/lect11))
+Water and sanitation financing ({{% resource_link 9c2c36f3-5509-e59b-4a09-99d2a831ec18 "PDF - 2.2 MB" %}})
 
 Guest lecture: Prof. Peter Rogers, Harvard University
 
@@ -157,7 +162,7 @@ Guest lecture: Prof. Peter Rogers, Harvard University
 {{< tdopen >}}
 
 
-On-site excreta disposal ([PDF - 5.4 MB]({{< baseurl >}}/resources/lect12))
+On-site excreta disposal ({{% resource_link 846dec43-a9fc-a9f2-1f8a-a44b0064692a "PDF - 5.4 MB" %}})
 
 Guest lecture: Brian Robinson (with Susan Murcott)
 
