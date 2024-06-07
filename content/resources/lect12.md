@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on on-site excreta disposal by guest lecturer Brian
   Robinson and course instructor Susan Murcott.
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/846dec43a9fca9f21f8aa44b0064692a_lect12.pdf
+file_size: 5691154
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

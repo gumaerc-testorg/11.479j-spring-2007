@@ -4,6 +4,7 @@ description: Lecture presentation on the role of water quantity, quality, hygien
   and sanitation in water-related disease prevention in developing countries, and
   some major water-related diseases.
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/31fcdb5f4661b67aaaf4f91bd5e80f74_lect4.pdf
+file_size: 1767277
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
