@@ -4,6 +4,7 @@ description: Assignment to write a memo on either a real-life case with which yo
   are familiar, or to create a fictitious scenario. The memo should address a variety
   of constraints and trade-offs that are typical of real-world situations.
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/597bc0291640a2c5dbc70ca35efd8781_memo2.pdf
+file_size: 36389
 file_type: application/pdf
 learning_resource_types:
 - Assignments

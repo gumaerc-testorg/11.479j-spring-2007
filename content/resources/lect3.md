@@ -4,6 +4,7 @@ description: Lecture presentation on a utility's pro-poor approach in Bangalore'
   slums by guest lecturer Genevieve Connors, Urban Development Sector Unit, East Asia
   and Pacific Region, World Bank.
 file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/da7d1195d3352c2bea55d9110a22d613_lect3.pdf
+file_size: 3913267
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
