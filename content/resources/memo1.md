@@ -4,7 +4,7 @@ description: Assignment to develop a policy memo detailing a strategy to reduce 
   diseases in slum neighborhoods. The major constraint is that this new program has
   limited funding, so you must wrestle with trade-offs and propose a clear policy
   direction.
-file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/b6385c91bd4bfec2a87e9466cc8e2e6c_memo1.pdf
+file: /ol-ocw-studio-app/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/b6385c91bd4bfec2a87e9466cc8e2e6c_memo1.pdf
 file_size: 221755
 file_type: application/pdf
 learning_resource_types:
