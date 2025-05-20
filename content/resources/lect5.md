@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on sources of water, both improved and unimproved,
   and water supply planning.
-file: /ol-ocw-studio-app/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/236b6d9807dc6291415907762a10801b_lect5.pdf
+file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/236b6d9807dc6291415907762a10801b_lect5.pdf
 file_size: 10312403
 file_type: application/pdf
 learning_resource_types:

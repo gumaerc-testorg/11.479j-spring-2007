@@ -3,7 +3,7 @@ content_type: resource
 description: Mid-term essay assignment on planning a strategy, advocating for a specific
   remediation solution, or presenting a case study addressing arsenic contamination
   in drinking water.
-file: /ol-ocw-studio-app/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/3b5f50482bd38534ac035998895b0e41_midterm.pdf
+file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/3b5f50482bd38534ac035998895b0e41_midterm.pdf
 file_size: 82834
 file_type: application/pdf
 learning_resource_types:
