@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on water and sanitation planning.
-file: /ol-ocw-studio-app/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/0a43990d4f6e369497a354a3732dcb0e_lect5_2.pdf
+file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/0a43990d4f6e369497a354a3732dcb0e_lect5_2.pdf
 file_size: 4041130
 file_type: application/pdf
 learning_resource_types:
