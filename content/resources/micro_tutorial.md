@@ -2,7 +2,7 @@
 content_type: resource
 description: This reading assignment provides a tutorial on economics, microeconomics,
   and macroeconomics.
-file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/8f08bcb630766def3b8f6c064bd40bc6_micro_tutorial.pdf
+file: /ol-ocw-studio-app/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/8f08bcb630766def3b8f6c064bd40bc6_micro_tutorial.pdf
 file_size: 39765
 file_type: application/pdf
 learning_resource_types:
