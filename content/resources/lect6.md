@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on water quality with a simple water quality field
   testing demonstration.
-file: /courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/c348657cc27a93bd7eb0f553ecc8f3a5_lect6.pdf
+file: /ol-ocw-studio-app/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/c348657cc27a93bd7eb0f553ecc8f3a5_lect6.pdf
 file_size: 1273585
 file_type: application/pdf
 learning_resource_types:
